@@ -22,7 +22,8 @@ The `kidney_disease.csv` file includes features such as:
 
 Clone this repository and set up your Python environment:
 
-```bash
+
+
 git clone https://github.com/Rishhi1/Logistic-Regression-on-Chronic-Kidney-Disease-Dataset.git
 cd Logistic-Regression-on-Chronic-Kidney-Disease-Dataset
 pip install numpy pandas matplotlib seaborn scikit-learn jupyter
